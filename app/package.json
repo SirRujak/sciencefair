@@ -24,6 +24,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "acorn": "^6.0.4",
     "byte-stream": "^2.1.0",
     "bytes": "^3.0.0",
     "cache-component": "^5.2.0",
