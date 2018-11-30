@@ -70,7 +70,7 @@
     "append-tree": {
       "version": "2.4.4",
       "from": "append-tree@>=2.0.5 <3.0.0",
-      "resolved": "https://registry.npmjs.org/append-tree/-/append-tree-2.4.4.tgz",
+      "resolved": "SirRujak/append-tree",
       "dependencies": {
         "process-nextick-args": {
           "version": "2.0.0",
