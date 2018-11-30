@@ -942,7 +942,7 @@
     "hypercore": {
       "version": "6.21.0",
       "from": "hypercore@>=6.10.4 <7.0.0",
-      "resolved": "https://registry.npmjs.org/hypercore/-/hypercore-6.21.0.tgz",
+      "resolved": "SirRujak/hypercore",
       "dependencies": {
         "process-nextick-args": {
           "version": "2.0.0",
