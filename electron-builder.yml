@@ -34,6 +34,7 @@ linux:
   target:
     - deb
     - rpm
+    - snap
   maintainer: "Richard Smith-Unna <rik@fathomlabs.io>"
 win:
   icon: "build/icon.ico"
